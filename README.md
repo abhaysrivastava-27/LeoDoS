@@ -27,5 +27,5 @@ The Active Queue Management and Denial-of-Service (AQM&DoS) Simulation Platform 
 * Internet
 * And you can define new topologies with ease.
 
-To analyse the impact of DoS attacks on normal TCP flows and AQM algorithms, this platform also provides mechanisms to automatically calculate and record the average throughput of normal TCP flows before and after DoS attacks.
+To analyse the impact of DoS attacks on normal TCP flows , AQM algorithms, this platform also provides mechanisms to automatically calculate and record the average throughput of normal TCP flows before and after DoS attacks.
 
